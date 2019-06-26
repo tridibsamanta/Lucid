@@ -1,1 +1,3 @@
 # Lucid
+
+@Author : Tridib Samanta
